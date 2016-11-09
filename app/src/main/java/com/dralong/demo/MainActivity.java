@@ -36,7 +36,6 @@ public class MainActivity extends AppCompatActivity {
             protected void convert(ViewHolder holder, HashMap<String, Object> obj, int position) {
                 holder.setText(R.id.item_main_txt,obj.get("title").toString());
             }
-
         };
         mAdapter.setOnItemClickListener(new MultiItemTypeAdapter.OnItemClickListener() {
             @Override

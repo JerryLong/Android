@@ -11,6 +11,7 @@ import com.dralong.demo.adapter.CommonAdapter;
 import com.dralong.demo.adapter.DividerDecoration;
 import com.dralong.demo.adapter.MultiItemTypeAdapter;
 import com.dralong.demo.adapter.base.ViewHolder;
+import com.dralong.demo.ui.PermissionActivity;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -49,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private List<? extends Map<String, ?>> setItem() {
         List<HashMap<String, Object>> list = new ArrayList<HashMap<String, Object>>();
-//        createItem(list, "6.0 运行时权限", PermissionActivity.class);
+        createItem(list, "6.0 运行时权限", PermissionActivity.class);
 //        createItem(list, "转场动画", TransitionActivity.class);
         return list;
     }

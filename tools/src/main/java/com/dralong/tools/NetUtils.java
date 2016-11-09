@@ -10,7 +10,7 @@ import android.net.NetworkInfo;
 /**
  * 网络相关工具类
  * 
- * @author Jerry
+ * @author Jim
  *
  */
 public class NetUtils {

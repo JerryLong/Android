@@ -29,7 +29,7 @@ import android.text.TextUtils;
 /**
  * 文件操作工具类
  * 
- * @author Jerry
+ * @author makeDirs
  *
  */
 public class FileUtils {

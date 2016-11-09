@@ -1,6 +1,5 @@
 package com.dralong.tools;
 
-import java.io.UnsupportedEncodingException;
 import java.security.Key;
 import java.security.MessageDigest;
 

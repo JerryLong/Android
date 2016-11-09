@@ -40,7 +40,7 @@ import android.view.View;
 /**
  * Bitmap工具类主要包括获取Bitmap和对Bitmap的操作
  * 
- * @author Jerry
+ * @author Jim
  *
  */
 public class BitmapUtils {

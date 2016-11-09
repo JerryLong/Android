@@ -6,7 +6,7 @@ import android.util.TypedValue;
 /**
  * 单位（Density）转换工具类
  * 
- * @author Jerry
+ * @author Jim
  *
  */
 public class DUtils {
@@ -19,7 +19,7 @@ public class DUtils {
 	 * dp转px
 	 * 
 	 * @param context
-	 * @param val
+	 * @param dpVal
 	 * @return
 	 */
 	public static int dp2px(Context context, float dpVal) {

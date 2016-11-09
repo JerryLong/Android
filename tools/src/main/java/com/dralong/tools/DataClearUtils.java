@@ -9,7 +9,7 @@ import android.os.Environment;
 /**
  * 应用缓存数据清除工具类
  * 主要功能有清除内/外缓存，清除数据库，清除sharedPreference，清除files和清除自定义目录
- * @author Jerry
+ * @author Jim
  *
  */
 public class DataClearUtils {

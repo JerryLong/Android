@@ -8,7 +8,7 @@ import android.text.TextUtils;
 /**
  * 字符串操作工具包 结合android.text.TextUtils使用
  * 
- * @author Jerry
+ * @author Jim
  *
  */
 public class StringUtils {

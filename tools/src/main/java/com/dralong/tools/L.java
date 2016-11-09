@@ -5,7 +5,7 @@ import android.util.Log;
 /**
  * 日志工具类
  * 
- * @author Jerry
+ * @author Jim
  *
  */
 public class L {
@@ -15,7 +15,7 @@ public class L {
 	}
 
 	public static boolean isDebug = true;// 是否需要打印Log，可以在application的onCreate函数里面初始化
-	private static final String TAG = "Jerry";
+	private static final String TAG = "Jim";
 
 	// 下面四个是默认tag的函数
 	public static void i(String msg) {

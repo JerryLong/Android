@@ -8,7 +8,7 @@ import android.os.StatFs;
 /**
  * sd卡工具类
  * 
- * @author Jerry
+ * @author Jim
  *
  */
 public class SDCardUtils {

@@ -7,7 +7,7 @@ import android.widget.EditText;
 /**
  * 软键盘相关工具类
  * 
- * @author Jerry
+ * @author Jim
  *
  */
 public class KeyBoardUtils {
@@ -15,9 +15,9 @@ public class KeyBoardUtils {
 	/**
 	 * 打开软键盘
 	 * 
-	 * @param mEditText
+	 * @param editText
 	 *            输入框
-	 * @param mContext
+	 * @param editText
 	 *            上下文
 	 */
 	public static void openKeybord(Context context, EditText editText) {
@@ -31,9 +31,9 @@ public class KeyBoardUtils {
 	/**
 	 * 关闭软键盘
 	 * 
-	 * @param mEditText
+	 * @param editText
 	 *            输入框
-	 * @param mContext
+	 * @param editText
 	 *            上下文
 	 */
 	public static void closeKeybord(Context context, EditText editText) {

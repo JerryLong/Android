@@ -27,5 +27,6 @@ public class PermissionActivity extends AppCompatActivity {
         } else if (view.getId() == R.id.permission_rp) {
             startActivity(new Intent(this, RuntimePermisionActivity.class));
         }
+
     }
 }

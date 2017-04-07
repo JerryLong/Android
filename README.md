@@ -1,7 +1,7 @@
 # Android
 ##Android练习demo
 
-#Android
+# Android博客
 http://www.wjdiankong.cn/
 -----
 #### [Android最新源码汇总 ](http://androidblog.cn/index.php)

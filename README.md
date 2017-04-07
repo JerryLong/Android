@@ -1,7 +1,8 @@
 # Android
-##Android练习demo
+## Android练习demo
 
-# Android博客
+# Android技术博客
+
 http://www.wjdiankong.cn/
 -----
 

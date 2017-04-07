@@ -1,13 +1,14 @@
 # Android
-## Android练习demo
+#### Android练习demo
 
 ### Android技术博客
 
-http://www.wjdiankong.cn/
+* http://www.wjdiankong.cn/
+* http://androidblog.cn/index.php
 -----
 
 #### [Android最新源码汇总 ](http://androidblog.cn/index.php)
-# 完整项目
+### 完整项目
 -----  
 
 * [Muzei Live Wallpaper](https://github.com/romannurik/muzei) - 这是已经在Playstore上线了的android壁纸应用，点击壁纸界面可以磨砂透明效果以及一般背景效果之间切换，可以自己指定背景图片的来源。最重要的他是开源的。
